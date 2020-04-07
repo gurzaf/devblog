@@ -1,14 +1,14 @@
-// import React from 'react';
-// import { renderToString } from 'react-dom/server';
-// import { ServerStyleSheet } from 'styled-components';
+import React from 'react';
+import { renderToString } from 'react-dom/server';
+import { ServerStyleSheet } from 'styled-components';
 
-// export const replaceRenderer = ({
-//   bodyComponent,
-//   replaceBodyHTMLString,
-//   setHeadComponents,
-// }) => {
-//   const sheet = new ServerStyleSheet();
-//   const bodyHTML = renderToString(bodyComponent);
-//   replaceBodyHTMLString(bodyHTML);
-//   setHeadComponents([sheet.getStyleElement()]);
-// };
+export const replaceRenderer = ({
+  bodyComponent,
+  replaceBodyHTMLString,
+  setHeadComponents,
+}) => {
+  const sheet = new ServerStyleSheet();
+  const bodyHTML = renderToString(bodyComponent);
+  replaceBodyHTMLString(bodyHTML);
+  setHeadComponents([sheet.getStyleElement()]);
+};
