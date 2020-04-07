@@ -1,10 +1,10 @@
 {
   "name": "devblog",
-  "description": "GatsbyJS blog template for developers",
-  "version": "2.0.0",
-  "author": "Ryan Fitzgerald <ryanfitzgeralddev@gmail.com>",
+  "description": "El blog de Julián Gálvez",
+  "version": "0.0.1",
+  "author": "Julián Gálvez <gurzaf@gmail.com>",
   "bugs": {
-    "url": "https://github.com/ryanfitzgerald/devblog/issues"
+    "url": "https://github.com/gurzaf/devblog/issues"
   },
   "dependencies": {
     "gatsby": "^2.20.13",
@@ -41,7 +41,7 @@
     "gh-pages": "^2.2.0",
     "prettier": "^2.0.4"
   },
-  "homepage": "https://github.com/ryanfitzgerald/devblog#readme",
+  "homepage": "https://github.com/gurzaf/devblog#readme",
   "keywords": [
     "gatsby",
     "dev",
@@ -52,7 +52,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanfitzgerald/devblog.git"
+    "url": "git+https://github.com/gurzaf/devblog.git"
   },
   "scripts": {
     "dev": "gatsby develop",
