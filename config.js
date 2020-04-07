@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  title: 'Blog de Julián Gálvez', // Required
+  author: 'Julián Gálvez', // Required
+  description: 'Reflexiones personales y software',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    // website: 'https://ryanfitzgerald.ca',
+    github: 'https://github.com/gurzaf',
+    twitter: 'https://twitter.com/ggurzaf',
+    linkedin: 'http://linkedin.com/in/julián-andrés-gálvez-gómez-76608ab6',
   },
-  pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  pathPrefix: '/',
+  siteUrl: 'https://juliangalvez.netlify.com',
 };

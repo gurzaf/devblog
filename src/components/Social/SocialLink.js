@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
 const SocialLink = styled.a`
-  border: 1px solid #bfc8d2;
-  border-radius: 15px;
+  border: 1px solid #6e849c;
+  border-radius: 5px;
   color: #3e465b;
   display: inline-block;
   margin: 5px;
@@ -11,15 +11,20 @@ const SocialLink = styled.a`
 
   svg {
     display: inline-block;
-    height: 20px;
+    height: 15px;
     margin-right: 5px;
     stroke: #6e849c;
     vertical-align: middle;
-    width: 20px;
+    width: 15px;
   }
 
   &:hover {
-    border-color: #3e465b;
+    border-color: #6e849c;
+    background-color: #6e849c;
+    color: white;
+    svg {
+      stroke: white;
+    }
   }
 `;
 

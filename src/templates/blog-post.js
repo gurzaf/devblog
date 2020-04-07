@@ -16,68 +16,69 @@ import FeaturedImage from '../components/FeaturedImage';
 import PageNav from '../components/PageNav';
 import Share from '../components/Share';
 
-class BlogPostTemplate extends React.Component {
-  render() {
-    const post = this.props.data.markdownRemark;
-    const author = get(this.props, 'data.site.siteMetadata.author');
-    const { previous, next } = this.props.pageContext;
+export const BlogPostTemplate = ({ post, url }) => (
+  <Card>
+    <ArticleHeader>
+      {post.frontmatter.featuredImage && (
+        <FeaturedImage
+          sizes={post.frontmatter.featuredImage.childImageSharp.sizes}
+        />
+      )}
+      <h1>{post.frontmatter.title}</h1>
+      <p>{post.frontmatter.date}</p>
+      <span />
+    </ArticleHeader>
+    <Article>
+      <div dangerouslySetInnerHTML={{ __html: post.html }} />
+    </Article>
+    {userConfig.showShareButtons && url && (
+      <Share url={url} title={post.frontmatter.title} />
+    )}
+  </Card>
+);
 
-    let url = '';
-    if (typeof window !== `undefined`) {
-      url = window.location.href;
-    }
-
-    return (
-      <Layout>
-        <Container>
-          <Helmet
-            title={`${post.frontmatter.title} | ${author}`}
-            htmlAttributes={{ lang: 'en' }}
-          >
-            <meta
-              name="description"
-              content={`${userConfig.title} | ${userConfig.description}`}
-            />
-          </Helmet>
-          <Card>
-            <ArticleHeader>
-              {post.frontmatter.featuredImage && (
-                <FeaturedImage
-                  sizes={post.frontmatter.featuredImage.childImageSharp.sizes}
-                />
-              )}
-              <h1>{post.frontmatter.title}</h1>
-              <p>{post.frontmatter.date}</p>
-              <span />
-            </ArticleHeader>
-            <Article>
-              <div dangerouslySetInnerHTML={{ __html: post.html }} />
-            </Article>
-            {userConfig.showShareButtons && (
-              <Share url={url} title={post.frontmatter.title} />
-            )}
-          </Card>
-
-          <PageNav>
-            {previous && (
-              <Button to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Button>
-            )}
-
-            {next && (
-              <Button to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Button>
-            )}
-          </PageNav>
-        </Container>
-      </Layout>
-    );
+const BlogPostPage = ({ data, pageContext }) => {
+  const post = data.markdownRemark;
+  const author = get(data, 'site.siteMetadata.author');
+  const { previous, next } = pageContext;
+  let url = '';
+  if (typeof window !== `undefined`) {
+    url = get(window, 'location.href');
   }
-}
+  return (
+    <Layout>
+      <Container>
+        <Helmet
+          title={`${post.frontmatter.title} | ${author}`}
+          htmlAttributes={{ lang: 'en' }}
+        >
+          <meta
+            name="description"
+            content={`${userConfig.title} | ${userConfig.description}`}
+          />
+        </Helmet>
+        
+        <BlogPostTemplate post={post} url={url} />
 
-export default BlogPostTemplate;
+        <PageNav>
+          {previous && (
+            <Button to={previous.fields.slug} rel="prev">
+              ← {previous.frontmatter.title}
+            </Button>
+          )}
+
+          {next && (
+            <Button to={next.fields.slug} rel="next">
+              {next.frontmatter.title} →
+            </Button>
+          )}
+        </PageNav>
+      </Container>
+    </Layout>
+  );
+};
+
+export default BlogPostPage;
 
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
