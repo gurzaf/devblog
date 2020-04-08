@@ -3,6 +3,7 @@ const Promise = require('bluebird');
 const path = require('path');
 const { createFilePath } = require('gatsby-source-filesystem');
 const createPaginatedPages = require('gatsby-paginate');
+const { fmImagesToRelative } = require('gatsby-remark-relative-images');
 const userConfig = require('./config');
 
 exports.createPages = ({ graphql, actions }) => {
@@ -81,8 +82,8 @@ exports.createPages = ({ graphql, actions }) => {
 };
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
+  fmImagesToRelative(node);
   const { createNodeField } = actions;
-
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode });
     createNodeField({

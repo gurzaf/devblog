@@ -19,7 +19,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/src/img`,
+        path: `${__dirname}/static/img`,
         name: 'images',
       },
     },
@@ -28,6 +28,7 @@ module.exports = {
       options: {
         excerpt_separator: `<!-- end -->`,
         plugins: [
+          'gatsby-remark-relative-images',
           {
             resolve: `gatsby-remark-images`,
             options: {
