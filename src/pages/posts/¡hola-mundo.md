@@ -18,4 +18,4 @@ Terminé haciendo todo lo contrario a lo que constantemente le recomiendo a mis 
 
 > Piensen menos en las *formas* y más en el *fondo*.
 
-Finalmente y dada la coyuntura historica que vivimos, decidí que era un buen momento para retomar la escritura, especialmente porque escribir siempre me ha servido como un catalizador y para liberar la ansiedad - que en días como los que corren puede ser mayor o explotar de cuando en cuando -.
+Finalmente y dada la coyuntura historica que vivimos, decidí que era un buen momento para retomar la escritura, especialmente porque escribir siempre me ha servido como un catalizador y para liberar la ansiedad - que en días como los que corren puede ser mayor o explotar de cuando en cuando -. Sin embargo, me tomó alrededor de 15 días montar este blog, dado que como mencioné anteriormente, dediqué un montón de tiempo a probar diferentes configuraciones y sistemas de publicación, porque simplemente crear un nuevo blog en wordpress.com no era una opción (jaja!).
