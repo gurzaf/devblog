@@ -7,10 +7,10 @@ function Pagination({previousUrl, nextUrl, isFirst = false, isLast = false}) {
   return (
     <Wrapper>
       {!isFirst &&
-        <Button to={previousUrl}>&larr; Newer Posts</Button>
+        <Button to={previousUrl}>&larr; Entradas nuevas</Button>
       }
       {!isLast &&
-        <Button to={nextUrl}>Older Posts &rarr;</Button>
+        <Button to={nextUrl}>Entradas antiguas &rarr;</Button>
       }
     </Wrapper>
   );
