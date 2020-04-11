@@ -24,13 +24,13 @@ exports.createPages = ({ graphql, actions }) => {
                   fields {
                     slug
                   }
-                  excerpt
+                  excerpt(pruneLength: 300)
                   frontmatter {
                     title
                     date(formatString: "MMMM D, YYYY", locale: "es")
                     featuredImage {
                       childImageSharp {
-                        sizes(maxWidth: 850) {
+                        fluid(maxWidth: 850, maxHeight: 250, cropFocus: ENTROPY) {
                           base64
                           aspectRatio
                           src

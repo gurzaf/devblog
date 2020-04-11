@@ -9,9 +9,8 @@ import P from './P';
 import Link from './Link';
 import Wrapper from './Wrapper';
 
-function Header({ config }) {
+function Header({ config, post }) {
   const { author, description, social } = config;
-
   return (
     <Container>
       <Wrapper>

@@ -21,7 +21,7 @@ export const BlogPostTemplate = ({ post, url }) => (
     <ArticleHeader>
       {post.frontmatter.featuredImage && (
         <FeaturedImage
-          sizes={post.frontmatter.featuredImage.childImageSharp.sizes}
+          source={post.frontmatter.featuredImage.childImageSharp}
         />
       )}
       <h1>{post.frontmatter.title}</h1>
@@ -96,8 +96,8 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY", locale: "es")
         featuredImage {
           childImageSharp {
-            sizes(maxWidth: 850) {
-              ...GatsbyImageSharpSizes
+            fluid(maxWidth: 850, maxHeight: 250, cropFocus: ENTROPY) {
+              ...GatsbyImageSharpFluid
             }
           }
         }
