@@ -3,7 +3,9 @@ backend:
   branch: master
 
 # when using the default proxy server port
-local_backend: true
+# local_backend: true
+
+publish_mode: editorial_workflow
 
 media_folder: static/img
 public_folder: /img
