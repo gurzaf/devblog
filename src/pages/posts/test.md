@@ -2,7 +2,7 @@
 templateKey: post
 title: El juego de la vida
 date: "2020-04-13T02:24:49.123Z"
-featuredImage: /img/img_0978.jpg
+featuredImage: /img/img_4862.jpg
 ---
 Leía el otro día una entrevista que le hicieron a [Rodolfo Llinás](https://es.wikipedia.org/wiki/Rodolfo_Llin%C3%A1s), y me llamó la atención una de las preguntas (de hecho su respuesta a una de ellas):
 
