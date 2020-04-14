@@ -30,4 +30,4 @@ Y así, contra todo pronóstico (naaah! no es cierto), sobrevivimos y continuamo
 
 PD: El título de la entrada, un poco random quizá, es un pequeño homenaje al creador de un juego ([el juego de la vida](https://es.wikipedia.org/wiki/Juego_de_la_vida)) que conocí en mis días de interes por la cultura y ética hacker, ya que el "glider" una figura que se puede armar dentro del juego, es el simbolo que identifica a los hackers en el mundo de Internet. [John H. Conway](https://es.wikipedia.org/wiki/John_Horton_Conway) murió el 11 de abril de 2020, les dejo este hermoso homenaje plasmado en Youtube en un canal que sigo:
 
-[![](http://img.youtube.com/vi/omMcrvVGTMs/0.jpg)](http://www.youtube.com/watch?v=omMcrvVGTMs)
+[![](https://img.youtube.com/vi/omMcrvVGTMs/0.jpg)](https://www.youtube.com/watch?v=omMcrvVGTMs)
