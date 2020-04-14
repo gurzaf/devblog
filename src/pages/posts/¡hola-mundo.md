@@ -1,8 +1,8 @@
 ---
 templateKey: post
 title: ¡Hola Mundo!
-date: 2020-04-08T18:16:03.023Z
-featuredImage: /img/img_8839.jpg
+date: "2020-04-08T18:16:03.023Z"
+featuredImage: /img/img_0978.jpg
 ---
 Si eres programador e inicias un blog, necesariamente tu primera entrada se llamará "hola mundo" - bueno, puede que no -. Sin embargo yo, a falta de creatividad para dar inicio a este nuevo intento de blog, decidí bautizar nuevamente una primera entrada con este nombre. Y digo nuevamente porque como sabrán aquellos que me conocen, este podría ser fácilmente mi quinto intento de blog, después de tener uno "relativamente" exitoso en 2008 y luego varios intentos fallidos a lo largo de los años.
 
