@@ -13,5 +13,5 @@ module.exports = {
     linkedin: 'http://linkedin.com/in/julián-andrés-gálvez-gómez-76608ab6',
   },
   pathPrefix: '/',
-  siteUrl: 'https://juliangalvez.netlify.com',
+  siteUrl: 'https://juliangalvez.xyz',
 };
