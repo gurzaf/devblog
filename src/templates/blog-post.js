@@ -46,11 +46,11 @@ const BlogPostPage = ({ data, pageContext }) => {
     url = get(window, 'location.href');
   }
   return (
-    <Layout>
+    <Layout post>
       <Container>
         <Helmet
           title={`${post.frontmatter.title} | ${author}`}
-          htmlAttributes={{ lang: 'en' }}
+          htmlAttributes={{ lang: 'es' }}
         >
           <meta
             name="description"

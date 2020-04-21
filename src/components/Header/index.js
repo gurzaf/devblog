@@ -8,6 +8,7 @@ import H1 from '../H1';
 import P from './P';
 import Link from './Link';
 import Wrapper from './Wrapper';
+import TitleContainer from './TitleContainer';
 
 function Header({ config, post }) {
   const { author, description, social } = config;
@@ -15,18 +16,23 @@ function Header({ config, post }) {
     <Container>
       <Wrapper>
         {userConfig.showHeaderImage && (
-          <HeaderImage/>
+          <HeaderImage post={post}/>
         )}
-        <H1><Link to="/">{author}</Link></H1>
-        <P>{description}</P>
-        {social &&
-          <Social
-            website={social.website}
-            github={social.github}
-            twitter={social.twitter}
-            linkedin={social.linkedin}
-          />
-        }
+        <TitleContainer post={post}>
+          <H1 post={post}>
+            <Link to="/">{author}</Link>
+          </H1>
+          <P post={post}>{description}</P>
+          {social &&
+            <Social
+              post={post}
+              website={social.website}
+              github={social.github}
+              twitter={social.twitter}
+              linkedin={social.linkedin}
+            />
+          }
+        </TitleContainer>
       </Wrapper>
     </Container> 
   );

@@ -3,9 +3,11 @@ import React from 'react';
 import Wrapper from './Wrapper';
 import SocialLink from './SocialLink';
 
-function Social({ website, twitter, github, linkedin }) {
+function Social({
+  website, twitter, github, linkedin, post,
+}) {
   return (
-    <Wrapper>
+    <Wrapper post={post}>
       {website && (
         <SocialLink href={website} target="_blank" rel="noopener">
           <svg
