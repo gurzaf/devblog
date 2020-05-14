@@ -4,4 +4,14 @@ title: Reflexiones obvias y no obvias sobre el COVID-19
 date: "2020-05-14T01:54:09.379Z"
 featuredImage: /img/img_1614.jpg
 ---
-Día X de la cuarentena nacional (específicamente de Colombia) y finalmente me decido a escribir esta entrada en la que me esforzaré por incluir muchas de las reflexiones personales sobre las que he venido meditando durante los últimos días a raíz de la situación por la que atravesamos.
+Día *X* de la cuarentena nacional (específicamente de Colombia) y finalmente me decido a escribir esta entrada en la que me esforzaré por incluir gran parte de las reflexiones personales sobre las que he venido meditando durante los últimos días a raíz de la situación por la que atravesamos. Que como usted sabrá (a menos que haya vivido los últimos dos o tres meses debajo de una piedra o en un desierto incomunicado totalmente), ha llegado a nuestras vidas para alterar los modos *"normales"* en los que entendemos y llevamos nuestra existencia. Modos que si bien son cambiantes, usualmente están conectados unos con otros y son fieles testigos de nuestras decisiones, acciones e inacciones en el plano temporal.
+
+Dada la cantidad de pensamientos que pienso plasmar en esta entrada, intuyo que será ciertamente complejo formarlos todos dentro una sola linea narrativa, así que los organizaré por secciones, separadas por subtítulos. En algunos casos, un nuevo tema estará conectado directamente con el tema anterior, en la gran mayoría probablemente no, así que mi apreciado lector, espero sepa comprender y espero le sea entretenido lo que estoy a punto de empezar a compartir con usted.
+
+
+
+### EL VIRUS ES REAL
+
+Dado lo lejano de su origen, el SARS-COV-2 (nombre propio del virus al que anteriormente nos referíamos simplemente como *coronavirus* - *a*unque muchos ya entrados en confianza de cuando en vez le seguimos llamando así -), parecía algo tan lejano, tan ajeno, que al empezar a escuchar noticias sobre lo que sucedía en China, muchos desestimamos las consecuencias que podría traernos varias semanas después. Creo que la razón por la que muchos pensamos de esa forma es porque estamos tan acostumbrados a las noticias falsas, a los videomontajes de ovnis, a los relatos fantasiosos de personas que aseguran esto o aquello sobre temas inverosímiles y teorías de la conspiración, que se sentía antinatural no ser escéptico ante el tema y darle credibilidad a todo lo que se decía en redes y medios de comunicación. Además, sí sumamos a esto la continua exposición a fantasías distópicas en literatura y cine a las que nos vemos expuestos, parecía demasiado ingenuo siquiera pensar que algo de esos universos podía llegar a nosotros. Simplemente terminamos desestimando el alcance de lo que venía.
+
+En retrospectiva, al leer toda la literatura científica preexistente que ya vaticinaba la posibilidad de que una situación como esta apareciera y en la que además se advertía que era solo cuestión de tiempo, o cuando ves el video de la charla [TED de Bill Gates](https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready?language=es) en 2015
