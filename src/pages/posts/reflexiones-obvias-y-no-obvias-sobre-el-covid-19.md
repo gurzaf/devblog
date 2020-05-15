@@ -24,7 +24,15 @@ Y si, el virus existe, está matando gente, está afectando la economía, el *st
 
 Poco a poco la ciencia va desenmarañando los secreto de nuestro nuevo compañero (que incluso podría [ser permanente de acuerdo a la nueva información](https://cnnespanol.cnn.com/2020/05/14/el-coronavirus-podria-no-desaparecer-nunca-advierte-un-funcionario-de-la-oms/)). Sin embargo dentro de los primeros datos e información suministrada, siempre se habló de la baja letalidad de este virus, [comparada con la de otros virus](https://www.bbc.com/mundo/noticias-51614537) o incluso de [otros males que afectan a la humanidad](https://www.ecsaharaui.com/2020/04/el-virus-del-hambre-mata-31-millones-de.html) (quizá incluso la [mezcla de ambos](https://cnnespanol.cnn.com/video/onu-hambre-programa-mundial-alimentos-coronavirus-covid-19-pandemia-perspectivas-mexico-vo/)), sin embargo no hay que olvidar lo altamente contagioso que es este coronavirus en particular, y es precisamente la razón por la que ahora tiene la denominación de pandemia. 
 
-No tenemos aún una vacuna o tratamientos efectivos para enfrentar el COVID-19 (que como usted seguramente sabrá, es el nombre de la enfermedad que causa el virus), de momento lo mejor que tenemos para aquellos "relativamente" pocos casos que presentan complicaciones son las unidades de cuidados intensivos que mejoran las probabilidades de supervivencia para estos casos. Y es un punto importante 
+No tenemos aún una vacuna o tratamientos efectivos para enfrentar el COVID-19 (que como usted seguramente sabrá, es el nombre de la enfermedad que causa el virus), de momento lo mejor que tenemos para aquellos "relativamente" pocos casos que presentan complicaciones son las unidades de cuidados intensivos que mejoran las probabilidades de supervivencia para estos casos. Y este punto es importante: las UCI mejoran las probabilidades de supervivencia, no son una cura.
+
+En un porcentaje que desconozco y que además varía en función de muchas otras circunstancias y condiciones, las personas de igual forma mueren. Sin embargo, ciertamente prácticamente cualquiera esperaría que nuestros sistemas de salud hagan lo más que puedan para salvar la vida de un ser querido. Y ese es el eslabón más débil de toda la cadena: los sistemas de salud.
+
+Como bien hemos podido apreciar en gran cantidad de medios de comunicación, los sistemas de salud en varios países alrededor del mundo han colapsado por la incapacidad de respuesta ante tanta necesidad de UCI, de personal médico e instalaciones adecuadas. En algunos casos por descuido sistemático de sus sistemas de salud, en otros por la dificultad del acceso en función de la capacidad económica de los individuos y en otros porque simplemente la cantidad de personas era insostenible.
+
+Si los sistemas de salud colapsan, necesariamente los índices de letalidad aumentan. De eso se tratan muchas de las medidas que se están tomando alrededor del mundo: de evitar el colapso de los sistemas de salud. Al no haber cura disponible, la gente se seguirá contagiando, no se puede impedir... y ¡si! muchas personas más van a morir, porque como lo he mencionado varias veces con anterioridad: no hay cura. Pero, si logramos evitar que los sistemas de salud colapsen, mantenemos el índice de letalidad bajo y será posible brindar a más personas la posibilidad de que sus probabilidades de sobrevivir a un eventual contagio y posterior complicación crezcan y con esto evitemos escenarios como los que algunos países trágicamente ya han experimentado.
+
+Como bien lo explica Javier Santaolalla en uno de sus más recientes videos ([link aquí](https://www.youtube.com/watch?v=iLTIWTJOWbY)), los humanos no somos muy buenos para entender forma natural las probabilidades. Hoy, tenemos un porcentaje de probabilidades de contagio en función de muchas variables (si tú usas tapabocas, si te lavas las manos, si con quien tienes contacto usan tapabocas, si se lavan las manos, etc), luego en función de nuestra edad o enfermedades previas una vez contagiados tenemos más probabilidades de presentar complicaciones y ciertamente otras probabilidades de morir. Al final resulta ser un número bajo, pero posible... si al final te toca a ti y te enfermas, esperas que estés dentro de un porcentaje bajo que a su vez sea de una muestra baja, porque además si la muestra es alta, las probabilidades de que haya una UCI disponible para ti bajan y al final esperas que los números puedan jugar lo más que se pueda a tu favor. Pero es que más allá de números, hablamos de personas, que vivirán y morirán... pero si podemos evitar que personas mueran, creo que al final lo que queda es discutir que mecanismos pueden mejorar las probabilidades de evitar más muertes. Lo difícil es encontrar esos mecanismos. 
 
 
 
@@ -32,6 +40,10 @@ No tenemos aún una vacuna o tratamientos efectivos para enfrentar el COVID-19 (
 
 LAS CUARENTENAS
 
+NO NOS GUSTAN LAS SOLUCIONES SIMPLES
 
+LA VELOCIDAD DE LA CIENCIA
+
+LAS DECISIONES INDIVIDUALES Y LA SALUD PÚBLICA
 
 LAS CONSPIRACIONES
