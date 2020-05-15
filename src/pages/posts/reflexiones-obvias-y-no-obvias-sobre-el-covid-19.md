@@ -53,17 +53,3 @@ Al final, saco dos conclusiones de este tema en particular. La primera es que al
 Una última reflexión que leí por ahí, que quizá al interiorizarla nos ayudé a mejorar nuestros habitos de interacción: 
 
 > No deberías actuar como si todas las personas a tu alrededor estuvieran infectadas y tu debas protegerte de ellas, sino como si tu estuvieras infectado y tu debas protegerlas a ellas de tí.
-
-### DECISIONES DIFÍCILES
-
-LAS CUARENTENAS
-
-NO NOS GUSTAN LAS SOLUCIONES SIMPLES
-
-LA VELOCIDAD DE LA CIENCIA
-
-LAS DECISIONES INDIVIDUALES Y LA SALUD PÚBLICA
-
-LAS CONSPIRACIONES
-
-VACUNAS
