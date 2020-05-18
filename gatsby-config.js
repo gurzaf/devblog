@@ -46,6 +46,15 @@ module.exports = {
           'gatsby-remark-prismjs',
           'gatsby-remark-copy-linked-files',
           'gatsby-remark-smartypants',
+          {
+            resolve: `gatsby-remark-embedder`,
+            options: {
+              services: {
+                twitter: {},
+                youtube: {},
+              },
+            },
+          },
         ],
       },
     },
@@ -80,6 +89,7 @@ module.exports = {
     },
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-styled-components`,
+    `gatsby-plugin-twitter`,
     `gatsby-plugin-netlify`,
   ],
 };
