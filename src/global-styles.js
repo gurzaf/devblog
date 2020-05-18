@@ -57,5 +57,17 @@ const GlobalStyle = createGlobalStyle`
       }
     }
   }
+
+  iframe[src*="https://www.youtube-nocookie.com"] {
+    max-width: 600px;
+    margin: 40px auto;
+    display: block;
+
+  }
+
+  .twitter-tweet {
+    margin: 40px auto !important;
+  }
+
 `;
 export default GlobalStyle;

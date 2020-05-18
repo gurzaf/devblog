@@ -51,7 +51,9 @@ module.exports = {
             options: {
               services: {
                 twitter: {},
-                youtube: {},
+                youtube: {
+                  class: "youtube",
+                },
               },
             },
           },
