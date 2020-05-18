@@ -62,7 +62,12 @@ const GlobalStyle = createGlobalStyle`
     max-width: 600px;
     margin: 40px auto;
     display: block;
+  }
 
+  iframe[src*="https://open.spotify.com"] {
+    max-width: 335px;
+    margin: 40px auto;
+    display: block;
   }
 
   .twitter-tweet {

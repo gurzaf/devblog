@@ -1,7 +1,7 @@
 ---
 templateKey: post
 title: ¡Hola Mundo!
-date: "2020-04-08T18:16:03.023Z"
+date: '2020-04-08T18:16:03.023Z'
 featuredImage: /img/img_0978.jpg
 ---
 Si eres programador e inicias un blog, necesariamente tu primera entrada se llamará "hola mundo" - bueno, puede que no -. Sin embargo yo, a falta de creatividad para dar inicio a este nuevo intento de blog, decidí bautizar nuevamente una primera entrada con este nombre. Y digo nuevamente porque como sabrán aquellos que me conocen, este podría ser fácilmente mi quinto intento de blog, después de tener uno "relativamente" exitoso en 2008 y luego varios intentos fallidos a lo largo de los años.
@@ -25,3 +25,7 @@ Ahora que por fin me he decidido a publicar el blog, espero poco a poco ir pulie
 De momento dejaré esta entrada en este punto, sólo como un abrebocas bastante insulso que además probablemente no tenga nada que ver con el resto de contenido que iré creando al pasar de los días, aprovechando la quietud de los días que para bien o para mal nos tocó vivir y presenciar.
 
 Un saludo para quien sea que esté leyendo estas palabras. Prometo mejorar la calidad de mi prosa pronto.
+
+PS: Una canción de despedida para la primera entrada del blog.
+
+https://open.spotify.com/track/1EiIkcVsMaatfirnrGx5Es?si=y4sO5AijTgWJBgghRc7fVg
