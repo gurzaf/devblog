@@ -63,3 +63,27 @@ Lo sigo desde hace bastante tiempo, sin embargo le había perdido un poco la pis
 https://youtu.be/Kq4DhJdgFMM
 
 Si con los podcasts, tengo cierta predilección por México (quizá es solo suerte y no he buscado más de otros lugares), con los YouTubers me pasa con Perú (y España), porque al igual que Monitor Fantasma, este canal lo crea un peruano (aunque vive en Nueva Zelanda). Habla sobre ciencia de un modo muy particular, pausado y riguroso, siempre citándote las fuentes e intentando mantener su opinión personal de lado. Para eso tiene su [canal personal](https://www.youtube.com/user/Aldillo003), además de otro canal para niños: [el robot de colón](https://www.youtube.com/channel/UCWDGyt5hy6UA6Br-hAar03A). Es un buen lugar para encontrar información científica fácilmente digerible. Tiene múltiples secciones, entre las que se incluye además unas para desmentir mitos (importante sobre todo en tiempos de pandemia, 5G, SpaceX y las teorías de la conspiración). Gracias a Aldo y a sus consejos (además de los de otras personas) ahora procuro buscar las fuentes de información primarias sobre noticias (no solo de ciencia) y ser más riguroso.
+
+### Date un Vlog
+
+https://youtu.be/czCrEbqBDVg
+
+Un científico muy humano de origen español, pero con sangre latinoamericana (en sentido figurado). Tiene además otros canales como [Date un Voltio](https://www.youtube.com/channel/UCns-8DssCBba7M4nu7wk7Aw). Impresiona por su capacidad comunicativa y porque además usa sus contactos (y experiencia directa en campo - fue investigador en el CERN -) para crear un canal tremendamente didáctico y divertido. De cuando en cuando también sale a desmentir mitos (citando fuentes, traduciendo conceptos extraños para los que no somos científicos y haciendo entrevistas y colaboraciones con otros científicos), aunque principalmente habla de ciencia, de historias de la ciencia, conflictos sociales relacionados, entre otros temas. Todo un referente de la divulgación científica en español. Esta cuarentena vi muchos de sus videos que sobre todo al iniciar el crecimiento exponencial de la pandemia fueron de mucha utilidad para entender no solo los últimos reportes y comunicados científicos, sino para explicar con ciencia y matemáticas muchos de los fenómenos sociales que vivimos (de nuevo mención a las teorías de la conspiración).
+
+### Me dicen Wally
+
+https://youtu.be/wLc7_LGUwzE
+
+Aquellos que me conocen saben que no veo televisión desde hace unos 6-7 años. Así que principalmente encuentro las noticias de actualidad en Twitter (posteriormente leo periódicos digitales, revistas, blogs, etc). Wally, se convierte en quizá el único *noticiero* que veo, para tomarme con un poco de humor la triste realidad colombiana. Los resúmenes de Wally no solo son informativos, también son incisivos y creo que expresan muy bien el sentir de mucha gente que conozco. En la cuarentena ha sido un infaltable.
+
+### Otros canales de YouTube
+
+Son bastantes la verdad, aunque en cuarentena no he visto tantos como antes, sin embargo aquí van algunos:
+
+* [Antonio García Villarán](https://www.youtube.com/user/MrCangrejoPistolero): Artes plásticas y mucho humor.
+* [Jaime Altozano](https://www.youtube.com/channel/UCa3DVlGH2_QhvwuWlPa6MDQ) y [Alvinsch](https://www.youtube.com/channel/UCqDkaR-FEerytN_LpiQkumA): Juntos, porque... mis youtubers musicales. Tesos ambos.
+* [Preguntas incomodas](https://www.youtube.com/channel/UC_LlGpG22OWkKPsLJfZ8CZg) y [La gata de Schrodinger](https://www.youtube.com/channel/UCoXtmmnLCbXDiSo8GxsmOzA): Dos voces femeninas en busca de la rigurosidad y tocando temas sensibles constamente.
+
+Creo que todo lo anterior resume un poco lo que consumo y he consumido en formato de audio y video durante la cuarentena, espero encuentren algo de lo que recomiendo interesante o entretenido. Saludos!
+
+PD: Debo tener mucho más contenido por ahí... si lo recuerdo, lo iré agregando (quizá).
