@@ -70,6 +70,10 @@ const GlobalStyle = createGlobalStyle`
     display: block;
   }
 
+  iframe[src*="https://open.spotify.com/embed-podcast/show"] {
+    height: 160px;
+  }
+
   .twitter-tweet {
     margin: 40px auto !important;
   }
