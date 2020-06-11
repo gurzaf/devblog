@@ -28,6 +28,32 @@ https://open.spotify.com/show/07H1d02UXSbKcQ8NQPn9h7?si=9rU3WFUtS6-6Wmu6NdRYZQ
 
 ### Migala
 
-Uno de mis grandes descubrimientos durante esta cuarentena (que va a ir con recomendación doble). Unos chicos mexicanos muy versados en un montón de temas diversos. Con su estilo tan particular que mezcla la filosofía, el humor, la historia, la poesía y su particular (y diverso) modo de ver la vida y lo que conlleva vivirla. Su formato es un poco diferente al de otros podcasts que escucho, debido a que sus episodios son tremendamente largos (más de 3-4 horas cada uno), pero que no tienen desperdicio. Nuevamente un ejemplo de como los puntos de desencuentro sirven también para construir. Una inspiración para mi propio proyecto, he aprendido mucho escuchándolos y aunque en algunos puntos tengo mis discrepancias, he pasado horas y horas *con ellos*. Si bien no he escuchado todos sus programas (como lo mencioné son bastante largos) han sido parte fundamental de mi cuarentena. Incluso he escuchado otros de sus programas relacionados: [la vida me da acidez](https://open.spotify.com/show/6wsfzksFm9SHZBZAGs2U8S?si=W-pHHIaxSOGM97uRIDinpg) (proyecto solista de uno de ellos) o [el pasquín](https://open.spotify.com/show/6vqCU0qeF2oKYn9CquBt6z?si=iNyjpJSbRguQhNVSqjyh8g) (sobre política principalmente mexicana, pero también del mundo). Tremendamente divertidos y recomendados todos. La introducción que usualmente acompaña cada episodio hace parte del formato que pretendemos crear/imitar en nuestro propio podcast.
+Uno de mis grandes descubrimientos durante esta cuarentena (que va a ir con recomendación doble). Unos chicos mexicanos muy versados en un montón de temas diversos. Con su estilo tan particular que mezcla la filosofía, el humor, la historia, la poesía y su particular (y diverso) modo de ver la vida y lo que conlleva vivirla. Su formato es un poco diferente al de otros podcasts que escucho, debido a que sus episodios son tremendamente largos (más de 3-4 horas cada uno), pero que no tienen desperdicio. Nuevamente un ejemplo de como los puntos de desencuentro sirven también para construir. Una inspiración para mi propio proyecto, he aprendido mucho escuchándolos y aunque en algunos puntos tengo mis discrepancias, he pasado horas y horas *con ellos*. Si bien no he escuchado todos sus programas (como lo mencioné son bastante largos) han sido parte fundamental de mi cuarentena. Incluso he escuchado otros de sus programas relacionados: [la vida me da acidez](https://open.spotify.com/show/6wsfzksFm9SHZBZAGs2U8S?si=W-pHHIaxSOGM97uRIDinpg) (proyecto solista de uno de ellos) o [el pasquín](https://open.spotify.com/show/6vqCU0qeF2oKYn9CquBt6z?si=iNyjpJSbRguQhNVSqjyh8g) (sobre política principalmente mexicana, pero también del mundo). Tremendamente divertidos y recomendados todos, publican nuevos episodios cada quince días (más o menos) y de hecho lo hacen en vivo. La introducción que usualmente acompaña cada episodio hace parte del formato que pretendemos crear/imitar en nuestro propio podcast.
 
 https://open.spotify.com/show/2emUOZDAW26UviaURdmuQ8?si=g2vrX3C0Qc2Flh8kubgzyg
+
+### Otros podcasts
+
+Existen otros programas excelentes también escucho, pero de forma más esporádica:
+
+* [Shots de ciencia](https://open.spotify.com/show/58k9e7irEMqyViSwkgC8vG?si=ZNJzjuQKQMijEtm0V_0btg): Su nombre lo indica, un podcast sobre ciencia que escucho ocasionalmente. Recientemente están sacando unos capítulos sobre astrofísica y astronomía muy interesantes.
+* [Colombia Simpson](https://open.spotify.com/show/5xctvEyLNTCLMB5MLMwTmJ?si=el_lVOOAQCqXjdWbIMX7EA): Usan los Simpson's para ilustrar temas interesantes en Colombia.
+* [Herejes](https://open.spotify.com/show/5pimYTQLSCx0M0wYyYWGe8?si=rMc2EMp1RzerQ17pT-E9DA): Otra propuesta super interesante desde México. El episodio sobre los [límites del humor](https://open.spotify.com/episode/2MXOMhabccgH1xVTbXqS5k?si=TkhgVXxkTf2Z97GrLMd4Mg) fue tremendamente iluminador para mí, super recomendado.
+
+Seguramente estoy dejando por fuera más episodios que he escuchado. Dejo la lista hasta ahí porque no son programas que escucho, sino episodios específicos.
+
+## YouTube
+
+En YouTube hay de todo tipo de contenido y seguro es un formato con el que la mayoría de la gente está más familiarizada. Pondré uno que otro video de canales que sigo (algunos los empecé a ver durante la cuarentena) y que me han acompañado durante estos días.
+
+### Nuevamente Migala
+
+https://youtu.be/rmNix6IdR28
+
+Merece doble mención, porque de hecho descubrí su podcast por sus videos en YouTube. El video que estoy enlazando fue el primero que vi de ellos y me hizo alucinar. Me vi todos sus videos en un solo día (no son tan largos como sus podcasts, además no son tantos por ahora). Tienen el estilo narrativo y de animación de uno de los chicos que componen el panel del programa de radio digital (*AKA podcast*). El mejor descubrimiento de la cuarentena sin dudas.
+
+### Monitor Fantasma
+
+https://youtu.be/krtF0VuFQBQ
+
+Lo sigo desde hace bastante tiempo, sin embargo le había perdido un poco la pista. Aun así cuando lo vuelvo a ver, es inevitable ver al menos 4 o 5 videos cada vez. Literatura, política y filosofía son sus principales temas. Con el *Tío Monitor* y su estilo perfectamente distinguible, en formato de videos cortos (10 minutos más o menos) y constantes, tienes mucho entretenimiento y cultura general a tu alcance. Durante la cuarentena varios de sus videos fueron muy interesantes para cuestionar varios de mis propios pensamientos alrededor de los fenómenos sociales que vivimos actualmente. El video que enlazo aquí es justamente uno de esos videos (todavía creo no estar seguro de si entendí correctamente su intencionalidad al verlo).
