@@ -57,3 +57,9 @@ Merece doble mención, porque de hecho descubrí su podcast por sus videos en Yo
 https://youtu.be/krtF0VuFQBQ
 
 Lo sigo desde hace bastante tiempo, sin embargo le había perdido un poco la pista. Aun así cuando lo vuelvo a ver, es inevitable ver al menos 4 o 5 videos cada vez. Literatura, política y filosofía son sus principales temas. Con el *Tío Monitor* y su estilo perfectamente distinguible, en formato de videos cortos (10 minutos más o menos) y constantes, tienes mucho entretenimiento y cultura general a tu alcance. Durante la cuarentena varios de sus videos fueron muy interesantes para cuestionar varios de mis propios pensamientos alrededor de los fenómenos sociales que vivimos actualmente. El video que enlazo aquí es justamente uno de esos videos (todavía creo no estar seguro de si entendí correctamente su intencionalidad al verlo).
+
+### Robot de Platón
+
+https://youtu.be/Kq4DhJdgFMM
+
+Si con los podcasts, tengo cierta predilección por México (quizá es solo suerte y no he buscado más de otros lugares), con los YouTubers me pasa con Perú (y España), porque al igual que Monitor Fantasma, este canal lo crea un peruano (aunque vive en Nueva Zelanda). Habla sobre ciencia de un modo muy particular, pausado y riguroso, siempre citándote las fuentes e intentando mantener su opinión personal de lado. Para eso tiene su [canal personal](https://www.youtube.com/user/Aldillo003), además de otro canal para niños: [el robot de colón](https://www.youtube.com/channel/UCWDGyt5hy6UA6Br-hAar03A). Es un buen lugar para encontrar información científica fácilmente digerible. Tiene múltiples secciones, entre las que se incluye además unas para desmentir mitos (importante sobre todo en tiempos de pandemia, 5G, SpaceX y las teorías de la conspiración). Gracias a Aldo y a sus consejos (además de los de otras personas) ahora procuro buscar las fuentes de información primarias sobre noticias (no solo de ciencia) y ser más riguroso.
