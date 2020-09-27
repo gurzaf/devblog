@@ -15,3 +15,11 @@ Cambiar mi lugar de vivienda parecía la opción más obvia al iniciar la pandem
 Continuando con la lista de temas: tiene tiempo que no trabajo tal cual como estaba acostumbrado a hacerlo desde hace unos 3-4 años atrás. Desde hace varios meses trabajo desde casa. Eso no está mal y claramente tengo ese privilegio de contar con un trabajo que me brinde esa flexibilidad (sobre todo en tiempos tan inciertos como los que corren), pero por momento es un poco solitario, terminas extrañando un poco cierto nivel de compañía. Mis horarios se encuentran totalmente atrofiados (debo trabajar en ello) y trabajar se siente diferente en este momento. Creo que retomar la rutina anterior podría ser una buena idea próximamente.
 
 Inicié la cuarentena consumiendo mucho contenido de YouTube. De hecho tenía varios canales que seguía de forma usual. Hoy sigo un par de forma más o menos constante, pero principalmente escucho muchos podcasts, escucho poca música (aunque finalmente pude ver HamilFilm, con el cual estuve obsesionado como un mes, aunque aún lo veo a veces) y tengo dos libros por leer (no me siento orgulloso).
+
+Nuestro propio podcast va andando y aunque aún no hallamos el punto de equilibrio para que las grabaciones sean más sencillas, ya llevamos 5 episodios publicados y 6 grabados. Este nuevo proyecto es uno de los motivos que tengo para pensar que este 2020 siguen siendo un buen año a pesar de todo.
+
+Fue bonito volver a ejecutar el Festival Lola Mora durante este año. Aunque de forma virtual ciertamente no es lo mismo que de forma presencial, fue increíble volver a sentir un poco de esa adrenalina durante la realización, nuevamente tener contacto con tantos increíbles artistas, fueron unas semanas de trabajo muy duras pero como siempre vale la pena todo el esfuerzo y volver después de 2 años de pausa es bueno.
+
+Sobre el último punto y sobre proyectos quedando atrás no estoy muy seguro aún, así que lo dejaré para una próxima oportunidad... 
+
+PS: Volver a escribir es un poco liberador.
