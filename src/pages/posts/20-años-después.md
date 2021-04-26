@@ -22,12 +22,12 @@ El futuro pinta muy bien... incierto como casi siempre, pero ciertamente alentad
 
 No sé que más decir... tengo un par de libros por leer que también me resultan emocionantes (la imagen de la portada de esta entrada es de uno de los libros). Para terminar una frase de una canción que me ha rondado la mente todos estos días:
 
-> La vida sigue su curso
-> un tiempo cruel y extraña
-> implacable y hermosa,
-> alargando el pasado
+> La vida sigue su curso,
+> un tiempo cruel y extraña,
+> implacable y hermosa.
+> Alargando el pasado,
 > encogiendo el presente,
-> repartiendo futuros inebitables,
+> repartiendo futuros inevitables,
 > juntando y separando gente.
 
 *(Hoy es el futuro de La Polla Records)*
