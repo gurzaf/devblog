@@ -17,3 +17,19 @@ Quizá (y continuando con la tradición), lo único que atinaré a decir es que 
 Me he visto envuelto en tantas situaciones diferentes durante los últimos meses -que aunque hoy me parezcan un poco más rutinarias-, son realmente nuevas para mí. Van desde noches extrañas, en lugares extraños con personas extrañas, a experimentar con actividades que años atrás ni siquiera hubiera contemplado realizar, pasando por viajes -pandemia por medio (no me siento orgulloso de eso particularmente)- a lugares que no han estado nunca en mi anhelo visitar, hasta... bueno... la vida es extraña.
 
 Hoy veo un poco con nostalgia incluso los últimos meses -lo curioso es que creo que aún estoy en el ojo del huracán, y un poco lejos de salir de estas semanas turbulentas (muy en el buen sentido)-, porque en cierto modo extraño la sensación de novedad que me ofrecieron los últimos tiempos. Que suerte tiene la gente con mala memoria, porque a mí me gustaría tenerla para olvidar la claridad de esos recuerdos que me producen tanta nostalgia o perderla para poder volver a vivir las mismas situaciones con la misma naturalidad y extrañeza que solo se sienten las primeras veces.
+
+El futuro pinta muy bien... incierto como casi siempre, pero ciertamente alentador. Tengo un viaje pendiente -ya planeado- y un par más en el horizonte. Mi trabajo me gusta mucho y me brinda mucha tranquilidad y retos para resolver constantemente, aunque tengo que solucionar un par de asuntos que no me dejan estar plenamente tranquilo en esta faceta.
+
+No sé que más decir... tengo un par de libros por leer que también me resultan emocionantes (la imagen de la portada de esta entrada es de uno de los libros). Para terminar una frase de una canción que me ha rondado la mente todos estos días:
+
+> La vida sigue su curso
+> un tiempo cruel y extraña
+> implacable y hermosa,
+> alargando el pasado
+> encogiendo el presente,
+> repartiendo futuros inebitables,
+> juntando y separando gente.
+
+*(Hoy es el futuro de La Polla Records)*
+
+¡Salud amador!
