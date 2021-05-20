@@ -4,7 +4,7 @@ title: La deuda primordial
 date: 2021-05-20T05:09:30.903Z
 featuredImage: /img/img_2191.png
 ---
-Llevo meses repitiéndome a mi mismo y repitiendo en discusiones causales con otras personas a modo de *mantra* la siguiente frase:
+Llevo meses repitiéndome a mi mismo y repitiendo en discusiones casuales con otras personas a modo de *mantra* la siguiente frase:
 
 > Yo todo lo que hago en este sentido es devolver. Estoy devolviendo lo bueno que me he recibido antes... directa o indirectamente.
 
