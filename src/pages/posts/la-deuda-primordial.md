@@ -16,4 +16,7 @@ Sin embargo, el motivo de escribir esta entrada, se da porque recientemente di i
 
 Espero que para quien en este momento este leyendo esta entrada resulte un poco evidente la relación que al menos para mí es clara entre lo que llevo expresando para mi mismo y para otras personas durante algunos meses y lo que este pasaje del libro menciona (que a su vez es una interpretación de un texto escrito al menos 1000 años antes de la era común). Ciertamente aunque a veces parezca que tenemos pensamientos que son únicos y muy nuestros, no soy tan narciso como para pensar que nadie haya pensado algo similar antes que yo (o incluso muchas personas), porque claramente sé que no es así. Lo que si me parece fascinante es que miles de años antes de este momento incluso existiera un pensamiento estructurado y documentado al respecto. Y más aún que lo esté descubriendo al leer un libro que en principio pensé solo trataría temas de economía monetaria y deuda en el sentido capitalista de la misma.
 
-En fin, me emociona ahora mucho más continuar leyendo este libro.
+En fin, me emociona ahora mucho más continuar leyendo este libro. Y para terminar, la cita del *veda* original al que hace mención el fragmento del libro:
+
+> Todo ser nace con una deuda a los dioses, los santos, los padres y los hombres. Si uno realiza un sacrificio es a causa de una deuda contraída con los dioses desde el nacimiento. Si uno recita un texto sagrado es a causa de una deuda con los santos. Si uno desea descendencia, es por una deuda hacia los padres por haber nacido. Y si uno proporciona hospitalidad es a causa de una deuda para con los hombres.
+> Shatapatha Brahmana 1.7.12, 1-6
