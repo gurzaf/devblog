@@ -1,0 +1,43 @@
+---
+templateKey: post
+title: Reflexiones obvias y no obvias sobre el COVID-19 - Parte 2
+date: "2020-05-15T08:33:38.327Z"
+featuredImage: /img/img_8839.jpg
+---
+Continuando con mi serie de reflexiones obvias y no obvias que nadie pidió sobre un tema del que ya se ha dicho mucho. Aquí estoy nuevamente con el propósito de enumerar en unos párrafos más, algunas situaciones sobre las que he pensado, he leído o visto durante la *gloriosa* época que vivimos.
+
+
+
+### LAS CUARENTENAS
+
+Si algo ha afectado gran parte de la población mundial durante la pandemia del SARS-COV-2, más allá que la propia enfermedad, ha sido una de las medidas más extendidas alrededor del globo: la cuarentena, encierro preventivo o confinamiento. La cual en algunos casos viene acompañada con toques de queda y aderezada en mayor o menor medida con más o menos restricciones.
+
+Me es difícil recordar exactamente en que día se inició este confinamiento en Colombia (la verdad es que tampoco intento recordarlo), pero lo que si es cierto, es que aún con pocos casos, relativamente ninguno cercano (dentro de la extensión del país), pero con la amenaza inminente de la expansión del virus y la enfermedad... llegó, y de momento no se ha ido. Sin embargo, considero pertinente decir que no es una sola cuarentena sino varias, porque aun cuando en un principio en Colombia, fue difícil poner de acuerdo a los gobernantes locales con el desafortunado personaje que tenemos como presidente, una vez normalizado el asunto, aun si las medidas tomadas aplican para el territorio nacional, claramente en cada ciudad, en cada barrio, en cada núcleo familiar, se vive una cuarentena y un aislamiento completamente diferente.
+
+Ciertamente las grandes ciudades tienen que enfrentar al menos de momento y desde mi perspectiva situaciones más complejas que las pequeñas ciudades o los pueblos. Con esto me refiero a que desde su propia definición lo que las hace ser lo que son, ya les implica retos diferentes. Tener más personas por ejemplo, necesariamente genera poblaciones más diversas, con diferentes tipos de necesidades. Tener más personas necesariamente implica tener más espacio que cubrir, más sectores que atender. Mayor área también implica mayor cantidad y diversidad de medios de transporte, lo cual, si uno vive en Colombia y ha viajado en alguno de los sistemas de transporte masivo de los que disponen las grandes ciudades e incluso las intermedias colombianas (y de muchas ciudades de Latinoamérica e incluso del mundo), estos sistemas están diseñados para transportar la mayor cantidad de personas posible en el menor tiempo, sin importar las condiciones en las que dichas personas tengan al momento de ser transportadas. Las ciudades reciben más visitantes, cuentan con mayor cantidad de empresas y obviamente de trabajadores en estas empresas. Todo esto solo poner en contexto que las medidas tomadas desde instancias gubernamentales, son entendidas y aplicadas diferente en las grandes ciudades que en las poblaciones más pequeñas o en las zonas rurales.
+
+Vivo en un pueblo, cuya población estimada es de poco más de 40.000 habitantes, aquí las condiciones de aislamiento son un tanto particulares. El primer fin de semana de aislamiento se dio a través de una medida de caracter departamental en coordinación con las alcaldías locales de cada municipio (como lo mencioné antes, fueron medidas adoptadas por entidades territoriales de forma independiente del gobierno nacional, porque nuestro presidente es un tipo inoperante en muchos sentidos), de hecho la medida inició como un toque de queda (que no es lo mismo que el aislamiento que vino posteriormente). Una vez que se empezó a establecer esta nueva normalidad, algunas de las medidas adoptadas por los gobiernos se adoptaron sin mayor dificultad (al menos es mi percepción), otras no fueron tomadas del todo y poco a poco se estableció una especie de contrato social alrededor de ciertas medidas y nadie hizo demasiado esfuerzo por impedir estos comportamientos que se fueron dando de forma espontánea.
+
+De este modo, en pueblos como el que yo vivo, muchos de los comercios que aún no se han habilitado para reactivarse a través de decretos presidenciales ya lo están haciendo, o lo hicieron antes de ser habilitados formalmente. Las personas se visitan mutuamente, algunos continúan con su calendario de celebraciones tradicional. Algunos hacen pequeñas reuniones sociales de forma eventual. Las medidas adoptadas para que las personas se puedan abastecer de productos de primera necesidad (como el caso del pico y cédula), fueron aplicadas al pie de la norma en un principio, pero de a poco se han vuelto menos restrictivas. Con esto no quiero decir que aquí no se acaten ciertas recomendaciones (aunque a veces el sentido de la norma se pierda en la forma del mensaje y no en el propósito real), esta nueva normalidad incluye muchos comportamientos nuevos relacionados con las medidas que constantemente son recordadas por los medios de comunicación, esto implica, distancia entre personas al comprar en los mercados o en otros tipos de filas, el uso de tapabocas, además al menos en mi caso, una especie de culpa cuando estoy en la calle y realmente no es necesario que lo esté, o un afán inusitado por regresar pronto a casa.
+
+A mí particularmente (aunque no celebro todos los comportamientos que naturalmente brotaron de las interacciones de las personas) me gusta mucho que en este pueblo puedan suceder estas situaciones, porque además de desvirtuar todas estas teorías de la conspiración (de las que ya hablaré en su momento) que hablan de un nuevo orden mundial o del control total de la población y que nos tratan como ovejas, y un largo etcétera, también logra mantener a raya un problema mucho más cercano a nuestra realidad y es el de los abusos de poder de las fuerzas militares y policivas, así como el autoritarismo, y es que si bien en Colombia con todo lo que está sucediendo, el fiscal de bolsillo del presidente, el congreso auto mutilando sus facultades legales permitiendo nuevamente al presidente gobernar para los intereses de unos cuantos, sin siquiera tener algo de control político del congreso y los medios de comunicación que le hacen pasarela a los intereses del gobierno para no cuestionarlos en los temas más importantes y además, agreguemos como se pasan la constitución y el estado laico por donde quieren, al invitar a oración nacional y consagrar el país a una virgen... este gobierno se acerca peligrosamente a una dictadura (pero desde hace años, esto no es una conspiración con los chinos y la OMS, para que alguien que no quiero nombrar aquí se vuelva presidente eterno de Colombia) y esto si es algo real.
+
+Me alegra que en este pueblo aunque las medidas que se toman y se promulgan son las mismas que en el resto del país, se permita espacio para respirar a la gente. Ciertamente hay muchas cosas que no se pueden hacer, que hacen parte de un mecanismo de control que busca ser restrictivo pero comprensivo con muchas de las realidades a las que se enfrentan personas que vieron interrumpidas sus vidas de forma tan abrupta, así como los medios con los que tradicionalmente han contado para adquirir los alimentos que llevan a sus casas. No sé si esto sea algo premeditado o simplemente un acuerdo social tácito, pero aquí hay un margen de maniobra que de momento ha sido efectivo tanto para evitar el brote de la enfermedad dentro del territorio, como para evitar la sensación de soledad, desolación, fatalidad y tristeza, que si puedo percibir de personas en grandes ciudades o incluso de otros pueblos.
+
+Si es cierto que todo el tiempo vas a tener gente quejándose en redes sociales (ya hablaré de esto en otro momento también), porque si al final tomar decisiones del agrado de todos es bastante complicado en escenarios normales, ahora imaginemos en tiempos de pandemia global. Pero, aun así creo que las medidas que se han tomado y la forma en que llevamos el confinamiento aquí si bien no son perfectas y no son las mejores, son bastante decentes y aceptables, porque al final todo este acuerdo tácito al que llegamos los Roldanillenses, probablemente sin proponérnoslo se dio intentando atender las necesidades de todos los sectores sociales que confluimos en este pequeño espacio geográfico. De un modo u otro aunque unos más y otros menos, creo que sentimos que estar en este pueblo en tiempos de COVID-19 nos hace privilegiados.
+
+
+
+### DECISIONES DIFÍCILES Y ESTADO DE OPINIÓN
+
+LAS CUARENTENAS
+
+NO NOS GUSTAN LAS SOLUCIONES SIMPLES
+
+LA VELOCIDAD DE LA CIENCIA
+
+LAS DECISIONES INDIVIDUALES Y LA SALUD PÚBLICA
+
+LAS CONSPIRACIONES
+
+VACUNAS
